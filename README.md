@@ -1,1 +1,1 @@
-# plugin-demonstration
+# system-demonstration
